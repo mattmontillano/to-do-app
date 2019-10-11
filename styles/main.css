@@ -1,0 +1,27 @@
+header {
+  background: url(../images/notebook.jpg) center / cover;
+  height: 60vh;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  background-color: #fffaf1;
+}
+
+h1 {
+  color: hsla(0, 0%, 20%, 0.9);
+  font-weight: bold;
+}
+
+.slogan {
+  color: hsla(0, 0%, 0%, 0.7);
+  font-weight: normal;
+  font-size: 1.6rem;
+}
+
+main {
+  max-width: 900px;
+  justify-content: center;
+  text-align: center;
+}
